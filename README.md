@@ -1,15 +1,15 @@
 # Laravel 10 - Rental Mobil
-
+<!-- 
 ## Screenshots
 
-![preview img](/preview.png)
+![preview img](/preview.png) -->
 
 ## Donwload
 
 Clone Projek
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/rental-mobil-laravel.git nama_projek
+  git clone https://github.com/khandavaa/RentalCar.git nama_projek
 ```
 
 Masuk ke folder dengan perintah
@@ -24,7 +24,7 @@ Masuk ke folder dengan perintah
     composer install
 ```
 
-```bash
+<!-- ```bash
     php artisan key:generate
 ```
 
@@ -34,9 +34,9 @@ Masuk ke folder dengan perintah
 
 ```bash
     php artisan storage:link
-```
+``` -->
 
-#### Login
+<!-- #### Login
 
 -   email = admin@admin.com
--   password = 123
+-   password = 123 -->
