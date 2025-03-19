@@ -6,6 +6,19 @@
 
 ## Donwload
 
+yang harus di install :
+ * PHP 8.1.25
+ * Composer version 2.8.6
+ * composer require yajra/laravel-oci8:^10.0 // untuk oracle
+ *buka file php.ini (lokasinya bisa dicek dengan php --ini)
+ cari dan rubah ;extension=oci8
+Hapus tanda ; di depannya sehingga menjadi: extension=oci8
+Jika tidak ada, tambahkan:
+extension=oci8
+extension=pdo_oci
+Simpan dan tutup file.
+
+
 Clone Projek
 
 ```bash
